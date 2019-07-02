@@ -1,2 +1,2 @@
-# ExampleRetrofit
-Consumo de todos os dados referente ao mercado de criptomoedas.
+# Criptocon
+Uma das primeiras versões do projeto opensource Criptocon, consumindo todos os dados da API CoinMarketCap.
